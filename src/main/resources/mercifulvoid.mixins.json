@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.rinko1231.mercifulvoid.common.Mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "mercifulvoid.refmap.json",
+  "mixins": [
+    "ItemEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
